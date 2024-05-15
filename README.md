@@ -18,8 +18,6 @@ Excited to share your expertise with the community? We'd love to have your contr
 
 Our moderators will review your PR promptly and provide feedback if needed. Once approved, your content will be published on our platform for developers worldwide to enjoy!
 
-Please make sure to read our [contributing guidelines]().
-
 ## Code of Conduct
 
 In the spirit of fostering an inclusive and respectful community, we ask all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
