@@ -12,7 +12,7 @@ Excited to share your expertise with the community? We'd love to have your contr
 
 1. **Fork** this repository to your GitHub account.
 2. **Create** a new branch for your contribution.
-3. **Add** your content or improvements.
+3. **Add** your content in `edit_this_draft.md`.
 4. **Commit** your changes and push them to your fork.
 5. **Open** a pull request (PR) to have your changes reviewed by our moderators.
 
