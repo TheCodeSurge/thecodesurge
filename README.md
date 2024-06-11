@@ -1,4 +1,4 @@
-# Welcome to Our Community-Driven EdTech Platform! 🚀
+# ✨ Welcome to Our Community-Driven EdTech Platform! ✨
 
 Welcome, fellow developers! 👋 We're thrilled to invite you to contribute to our community-driven platform dedicated to providing accessible and engaging education in engineering.
 
