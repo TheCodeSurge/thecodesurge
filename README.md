@@ -20,7 +20,10 @@ Our moderators will review your PR promptly and provide feedback if needed. Once
 
 ## Code of Conduct
 
-In the spirit of fostering an inclusive and respectful community, we ask all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+In the spirit of fostering an inclusive and respectful community, we ask all contributors to adhere to our Code of Conduct:
+- Be respectful.
+- Don't teach what you are not sure about.
+- Uplift others as you learn more.
 
 ## Let's Connect!
 
